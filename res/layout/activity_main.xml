@@ -3,5 +3,5 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="biz.nomadsoftware.market_minder.MainActivity"
+    tools:context="biz.nomadsoftware.groceryguru.MainActivity"
     tools:ignore="MergeRootFrame" />
